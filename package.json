@@ -1,11 +1,13 @@
-
 {
   "name": "gpt-ee-server",
   "version": "1.0.0",
-  "main": "index.js",,
+  "description": "EE sunucusu",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "author": "Trk527",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
   }
